@@ -1,0 +1,37 @@
+.box-container {
+  text-align: center;
+}
+
+.head {
+  color: #00e7ff;
+  font-size: 40px;
+  font-weight: 600;
+}
+.item-container {
+  border: 2px solid #00e7ff;
+  border-radius: 8px;
+}
+.nav-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  padding: 8px 40px 8px 40px;
+  margin-bottom: 8px;
+}
+.para {
+  color: white;
+}
+.para1 {
+  color: white;
+  margin-left: 60px;
+}
+.currency {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
